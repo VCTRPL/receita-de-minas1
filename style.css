@@ -1,0 +1,8 @@
+body img {
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 35px;
+
+}
