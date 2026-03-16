@@ -7,10 +7,10 @@ body img {
     filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.5))
 }
 
-first-list {
-    list-style-type: none;
+ul {
+    list-style-type: disc;
 }
 
-.second-list{
-    list-style-type: none;
+ol{
+    list-style-type: decimal;
 }
